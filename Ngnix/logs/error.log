@@ -1,0 +1,5 @@
+2022/08/07 21:02:38 [emerg] 22620#16928: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2022/08/07 21:03:04 [emerg] 20644#18060: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2022/08/07 21:03:13 [emerg] 22284#7480: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2022/08/07 21:03:14 [emerg] 28000#19972: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2022/08/07 21:08:31 [error] 30792#18900: *1 CreateFile() "C:\Users\juanzito\Documents\CoderHouse\backend\desafios\nginx-1.21.6/html/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
